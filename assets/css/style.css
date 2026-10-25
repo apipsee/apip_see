@@ -18,7 +18,7 @@ body {
   align-items: center;
   justify-content: center;
   background:
-    radial-gradient(circle at top, rgba(129, 70, 255, 0.32), transparent 38%),
+    radial-gradient(circle at top, rgba(155, 43, 180, 0.3), transparent 38%),
     linear-gradient(180deg, #07070b 0%, #121218 35%, #050509 100%);
   color: #ffffff;
   font-family: "Inter", Arial, sans-serif;
@@ -85,18 +85,18 @@ h1 {
   margin: 12px 0 0;
   padding: 0 12px;
   gap: 0;
-  border: 1px solid rgba(190, 120, 255, 0.9);
+  border: 1px solid rgba(155, 43, 180, 0.9);
   border-radius: 999px;
-  background: rgba(138, 43, 226, 0.18);
-  box-shadow: 0 0 8px rgba(168, 85, 247, 0.75), inset 0 0 8px rgba(168, 85, 247, 0.24);
+  background: rgba(155, 43, 180, 0.22);
+  box-shadow: 0 0 8px rgba(155, 43, 180, 0.62), inset 0 0 8px rgba(155, 43, 180, 0.2);
   animation: none;
 }
 
 .profile .me-button:hover,
 .profile .me-button:focus-visible {
-  background: rgba(138, 43, 226, 0.32);
-  border-color: #d8b4fe;
-  box-shadow: 0 0 12px rgba(192, 132, 252, 0.95), inset 0 0 10px rgba(168, 85, 247, 0.32);
+  background: rgba(155, 43, 180, 0.38);
+  border-color: #9B2BB4;
+  box-shadow: 0 0 12px rgba(155, 43, 180, 0.78), inset 0 0 10px rgba(155, 43, 180, 0.28);
 }
 
 .profile .me-button i {
@@ -119,10 +119,10 @@ h1 {
   height: 27px;
   margin: 0;
   padding: 0 10px;
-  border: 1px solid rgba(190, 120, 255, 0.9);
+  border: 1px solid rgba(155, 43, 180, 0.9);
   border-radius: 999px;
-  background: rgba(138, 43, 226, 0.18);
-  box-shadow: 0 0 8px rgba(168, 85, 247, 0.75), inset 0 0 8px rgba(168, 85, 247, 0.24);
+  background: rgba(155, 43, 180, 0.22);
+  box-shadow: 0 0 8px rgba(155, 43, 180, 0.62), inset 0 0 8px rgba(155, 43, 180, 0.2);
   color: #fff;
   text-decoration: none;
   animation: none;
@@ -130,9 +130,9 @@ h1 {
 
 .profile .home-button:hover,
 .profile .home-button:focus-visible {
-  background: rgba(138, 43, 226, 0.32);
-  border-color: #d8b4fe;
-  box-shadow: 0 0 12px rgba(192, 132, 252, 0.95), inset 0 0 10px rgba(168, 85, 247, 0.32);
+  background: rgba(155, 43, 180, 0.38);
+  border-color: #9B2BB4;
+  box-shadow: 0 0 12px rgba(155, 43, 180, 0.78), inset 0 0 10px rgba(155, 43, 180, 0.28);
 }
 
 .profile .home-button span {
@@ -149,18 +149,18 @@ h1 {
   min-height: 42px;
   margin: 12px 0 0;
   padding: 0 14px;
-  border: 1px solid rgba(190, 120, 255, 0.9);
+  border: 1px solid rgba(155, 43, 180, 0.9);
   border-radius: 999px;
-  background: rgba(138, 43, 226, 0.18);
-  box-shadow: 0 0 8px rgba(168, 85, 247, 0.75), inset 0 0 8px rgba(168, 85, 247, 0.24);
+  background: rgba(155, 43, 180, 0.22);
+  box-shadow: 0 0 8px rgba(155, 43, 180, 0.62), inset 0 0 8px rgba(155, 43, 180, 0.2);
   animation: none;
 }
 
 .profile .sosmed-button:hover,
 .profile .sosmed-button:focus-visible {
-  background: rgba(138, 43, 226, 0.32);
-  border-color: #d8b4fe;
-  box-shadow: 0 0 12px rgba(192, 132, 252, 0.95), inset 0 0 10px rgba(168, 85, 247, 0.32);
+  background: rgba(155, 43, 180, 0.38);
+  border-color: #9B2BB4;
+  box-shadow: 0 0 12px rgba(155, 43, 180, 0.78), inset 0 0 10px rgba(155, 43, 180, 0.28);
 }
 
 .profile .sosmed-button span {
@@ -176,18 +176,18 @@ h1 {
   min-height: 42px;
   margin: 12px 0 0;
   padding: 0 14px;
-  border: 1px solid rgba(190, 120, 255, 0.9);
+  border: 1px solid rgba(155, 43, 180, 0.9);
   border-radius: 999px;
-  background: rgba(138, 43, 226, 0.18);
-  box-shadow: 0 0 8px rgba(168, 85, 247, 0.75), inset 0 0 8px rgba(168, 85, 247, 0.24);
+  background: rgba(155, 43, 180, 0.22);
+  box-shadow: 0 0 8px rgba(155, 43, 180, 0.62), inset 0 0 8px rgba(155, 43, 180, 0.2);
   animation: none;
 }
 
 .profile .other-button:hover,
 .profile .other-button:focus-visible {
-  background: rgba(138, 43, 226, 0.32);
-  border-color: #d8b4fe;
-  box-shadow: 0 0 12px rgba(192, 132, 252, 0.95), inset 0 0 10px rgba(168, 85, 247, 0.32);
+  background: rgba(155, 43, 180, 0.38);
+  border-color: #9B2BB4;
+  box-shadow: 0 0 12px rgba(155, 43, 180, 0.78), inset 0 0 10px rgba(155, 43, 180, 0.28);
 }
 
 .profile .other-button span {
@@ -203,11 +203,11 @@ h1 {
   border-radius: 999px;
   background: linear-gradient(
     90deg,
-    rgba(138, 43, 226, 0),
-    rgba(138, 43, 226, 1),
-    rgba(138, 43, 226, 0)
+    rgba(155, 43, 180, 0),
+    rgba(155, 43, 180, 1),
+    rgba(155, 43, 180, 0)
   );
-  box-shadow: 0 0 14px rgba(138, 43, 226, 0.5);
+  box-shadow: 0 0 14px rgba(155, 43, 180, 0.42);
 }
 
 .catalog-divider {
@@ -255,16 +255,69 @@ h1 {
 
 .apk-links .social-button,
 .product-links .social-button {
-  background: #8a2be2;
-  border-color: #8a2be2;
+  background: #9B2BB4;
+  border-color: #9B2BB4;
 }
 
 .apk-links .social-button:hover,
 .apk-links .social-button:focus-visible,
 .product-links .social-button:hover,
 .product-links .social-button:focus-visible {
-  background: #9b4de8;
-  border-color: #9b4de8;
+  background: #9B2BB4;
+  border-color: #9B2BB4;
+}
+
+.download-guide-link {
+  margin: 0 0 24px;
+}
+
+.download-guide .guide-header {
+  text-align: center;
+}
+
+.download-guide .guide-back {
+  display: inline-flex;
+  width: auto;
+  min-height: 42px;
+  margin-bottom: 20px;
+  padding: 8px 16px;
+}
+
+.download-guide .guide-header h1 {
+  font-size: clamp(2rem, 7vw, 3rem);
+}
+
+.download-guide .guide-header p,
+.guide-note {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.guide-section {
+  margin-top: 22px;
+  padding: 18px;
+  border: 1px solid rgba(155, 43, 180, 0.3);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.guide-section h2 {
+  margin: 0 0 10px;
+  font-size: 1.1rem;
+}
+
+.guide-section ol {
+  margin: 0;
+  padding-left: 22px;
+  color: rgba(255, 255, 255, 0.82);
+}
+
+.guide-section li + li {
+  margin-top: 8px;
+}
+
+.guide-note {
+  margin: 20px 0 0;
+  font-size: 0.9rem;
 }
 
 
@@ -301,8 +354,8 @@ h1 {
   width: 100%;
   min-height: 60px;
   padding: 14px 18px;
-  background: #8a2be2;
-  border: 1px solid #8a2be2;
+  background: #9B2BB4;
+  border: 1px solid #9B2BB4;
   border-radius: 8px;
   color: #ffffff;
   text-decoration: none;
@@ -322,8 +375,8 @@ h1 {
 .social-button:hover,
 .social-button:focus-visible {
   transform: translateY(-2px);
-  background: #9b4de8;
-  border-color: #9b4de8;
+  background: #9B2BB4;
+  border-color: #9B2BB4;
 }
 
 .social-button:active {
@@ -331,7 +384,7 @@ h1 {
 }
 
 .social-button:focus-visible {
-  outline: 2px solid #8a2be2;
+  outline: 2px solid #9B2BB4;
   outline-offset: 4px;
 }
 
@@ -344,7 +397,7 @@ h1 {
   height: 24px;
   text-align: center;
   line-height: 1;
-  color: rgba(200, 170, 255, 0.95);
+  color: rgba(155, 43, 180, 0.95);
   flex-shrink: 0;
 }
 
@@ -460,4 +513,84 @@ h1 {
     min-height: 58px;
     padding: 12px 14px;
   }
+}
+
+/* Glass surfaces with bright, readable labels. */
+.social-button,
+.apk-links .social-button,
+.product-links .social-button,
+.profile .me-button,
+.profile .home-button,
+.profile .sosmed-button,
+.profile .other-button {
+  color: #ffffff;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.14), rgba(112, 24, 132, 0.32));
+  border: 1px solid rgba(255, 255, 255, 0.32);
+  box-shadow:
+    0 18px 32px rgba(0, 0, 0, 0.42),
+    0 5px 12px rgba(0, 0, 0, 0.24),
+    0 0 18px rgba(155, 43, 180, 0.12),
+    inset 0 1px 0 rgba(255, 255, 255, 0.4),
+    inset 0 -2px 4px rgba(0, 0, 0, 0.18);
+  -webkit-backdrop-filter: blur(16px) saturate(150%);
+  backdrop-filter: blur(16px) saturate(150%);
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.social-button:hover,
+.social-button:focus-visible,
+.apk-links .social-button:hover,
+.apk-links .social-button:focus-visible,
+.product-links .social-button:hover,
+.product-links .social-button:focus-visible,
+.profile .me-button:hover,
+.profile .me-button:focus-visible,
+.profile .home-button:hover,
+.profile .home-button:focus-visible,
+.profile .sosmed-button:hover,
+.profile .sosmed-button:focus-visible,
+.profile .other-button:hover,
+.profile .other-button:focus-visible {
+  color: #ffffff;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.23), rgba(112, 24, 132, 0.48));
+  border-color: rgba(255, 255, 255, 0.58);
+  box-shadow:
+    0 24px 40px rgba(0, 0, 0, 0.5),
+    0 8px 18px rgba(0, 0, 0, 0.3),
+    0 0 24px rgba(155, 43, 180, 0.26),
+    inset 0 1px 0 rgba(255, 255, 255, 0.58),
+    inset 0 -2px 5px rgba(0, 0, 0, 0.16);
+  transform: translateY(-3px);
+}
+
+.social-button i,
+.social-button .social-icon {
+  color: #f2c7ff;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.55));
+}
+
+.social-button span {
+  color: #ffffff;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.55);
+}
+
+.guide-section {
+  border-color: rgba(255, 255, 255, 0.24);
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.09), rgba(112, 24, 132, 0.12));
+  box-shadow:
+    0 20px 38px rgba(0, 0, 0, 0.36),
+    0 6px 14px rgba(0, 0, 0, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    inset 0 -2px 6px rgba(0, 0, 0, 0.14);
+  -webkit-backdrop-filter: blur(18px) saturate(140%);
+  backdrop-filter: blur(18px) saturate(140%);
+}
+
+.guide-section:hover {
+  transform: translateY(-2px);
+  box-shadow:
+    0 26px 44px rgba(0, 0, 0, 0.42),
+    0 8px 18px rgba(0, 0, 0, 0.24),
+    inset 0 1px 0 rgba(255, 255, 255, 0.24),
+    inset 0 -2px 6px rgba(0, 0, 0, 0.12);
 }
